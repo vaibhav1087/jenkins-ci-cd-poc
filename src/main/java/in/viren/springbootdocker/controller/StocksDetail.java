@@ -19,11 +19,11 @@ public class StocksDetail {
         StockDetailsResponse stockDetailsResponse = new StockDetailsResponse();
 
         Stock stock1 = new Stock();
-        stock1.setStockId("101");
+        stock1.setStockId("201");
         stock1.setStockName("Spice Jet");
 
         Stock stock2 = new Stock();
-        stock1.setStockId("102");
+        stock1.setStockId("202");
         stock1.setStockName("Adani Port");
 
         List<Stock> stockList = new ArrayList<Stock>();
